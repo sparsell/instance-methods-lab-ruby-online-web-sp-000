@@ -4,10 +4,10 @@ class Person
     puts "Hello World!"
   end
 
-  def walks
+  def walk
     "The Person is walking"
   end
 end
 
 ada = Person.new
-ada.walks
+ada.walk
