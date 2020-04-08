@@ -10,4 +10,4 @@ class Person
 end
 
 ada = Person.new
-ada.walk
+#ada.walk
