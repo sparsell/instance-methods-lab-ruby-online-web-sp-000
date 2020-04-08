@@ -1,7 +1,9 @@
 class Person
 
   def talk
-    ada = Person.new
+    puts "Hello World!"
 
   end
 end
+
+ada = Person.new
