@@ -8,3 +8,7 @@ class Dog
     
   end
 end
+
+fido = Dog.new
+rover = Dog.new
+lassie = Dog.new
